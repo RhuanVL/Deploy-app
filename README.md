@@ -7,7 +7,9 @@ Primeiramente criei o aplicativo do react em uma pasta chamada /desafio
 com o comando:
 
 #npx create-react-app app
+
 #cd /app
+
 #npm start
 
 Depois criei um arquivo chamado Dockerfile, onde iria existir as configurações do docker
